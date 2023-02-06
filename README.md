@@ -16,7 +16,7 @@
 
 
 
-### My Website and Social Networks
+### Personal Website and Social Networks
 My Website <a href='https://siditaduli.com/en/home/'>siditaduli.com </a>
 
 My profile in <a href='https://github.com/siditaduli'>GitHub</a>
