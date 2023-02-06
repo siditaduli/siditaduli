@@ -29,7 +29,7 @@ https://coursera.org/share/4f347f809790c38559fd8ac36ba15d12
 
 ### IBM Certifications
 
-Data Analysis with Python
+📊 Data Analysis with Python
 https://coursera.org/share/475df3c98a68c27342c7c965be72fa4c
 
 ### Education
