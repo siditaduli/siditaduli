@@ -16,11 +16,9 @@
 
 
 ### Personal Website and Social Networks
-My Website <a href='https://siditaduli.com/en/home/'>siditaduli.com </a>
+Visit my Website <a href='https://siditaduli.com/en/home/'>siditaduli.com </a>
 
-My profile in <a href='https://github.com/siditaduli'>GitHub</a>
-
-My profile in <a href='https://www.linkedin.com/in/sidita-duli-b03ab07/'>LinkedIn</a>
+Follow me on <a href='https://github.com/siditaduli'>GitHub</a> and <a href='https://www.linkedin.com/in/sidita-duli-b03ab07/'>LinkedIn</a>
 
 ### Google Certifications
 Processing Data with Google Cloud Dataflow
