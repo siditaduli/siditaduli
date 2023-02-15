@@ -20,7 +20,7 @@ Visit my Website <a href='https://siditaduli.com/en/home/'>siditaduli.com </a>
 
 Follow me on <a href='https://github.com/siditaduli'>GitHub</a> and <a href='https://www.linkedin.com/in/sidita-duli-b03ab07/'>LinkedIn</a>
 
-## Courses Completed in DataCamp
+## DataCamp Courses Completed
 
 <a href='https://www.datacamp.com/statement-of-accomplishment/course/0b6cb76ce1bb314ac3c32192db8b8b0c3cbbe93a'>Introduction to Data Science in Python</a>
 
