@@ -12,7 +12,7 @@
 
 📚 8+ years of experience in research
 
-🔝 15+ years of experience as a Java programming Trainer
+🔝 15+ years of experience as a Programming Trainer in University
 
 
 ## Personal Website and Social Networks
