@@ -4,13 +4,13 @@
 
 🔭 Ph.D. in Electrotechnical Engineering
 
-🐍 4+ years of experience in Python
+🐍 7+ years of experience in Python
 
 💻 2+ years of experience in Django
 
 🔎 2+ years of experience in SQL
 
-📚 8+ years of experience in research
+📚 10+ years of experience in research
 
 🔝 15+ years of experience as a Programming Trainer in University
 
