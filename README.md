@@ -12,7 +12,8 @@
 
 📚 10+ years of experience in research
 
-🔝 16+ years of experience as a Programming Trainer in University
+🔝 16+ years of experience as a Lecturer in University of Shkodra, Albania and 2 years in Tirana, as a Lecturer of Data Visualization Course
+
 
 
 ## Personal Website and Social Networks
