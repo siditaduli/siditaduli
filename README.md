@@ -46,7 +46,8 @@ Follow me on <a href='https://github.com/siditaduli'>GitHub</a> and <a href='htt
 <a href='https://coursera.org/share/475df3c98a68c27342c7c965be72fa4c'>Data Analysis with Python</a>
 
 ## Education
-🎓 Ph.D. in ElectroTechnical Engineering, Parallel programming of Weibull Distribution Parameter Estimation (2018)
+🎓 Ph.D. in ElectroTechnical Engineering, <a href='https://eteze.ucg.ac.me/application/showtheses?thesesId=179'> Parallel programming of Weibull Distribution Parameter Estimation (2018) </a>
+
 
 🎓 Master's Degree in Computer Sciences. Thesis: REST API with SOAP protocol (2008)
 
